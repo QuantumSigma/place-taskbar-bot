@@ -1,4 +1,4 @@
-# Place-taskbar-bot
+# Place-3b1b-bot
 
 This bot is based on [placeDE's bot](https://github.com/placeDE/Bot).
 It automatically places pixels based on the [template](#template).
@@ -11,6 +11,3 @@ It automatically places pixels based on the [template](#template).
 
 ## Additional notes
 - The bot might not refresh the cooldown shown in the middle
-
-## Template
-![Current Taskbar Template](output.png)
