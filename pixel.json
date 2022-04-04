@@ -1,0 +1,2656 @@
+{
+    "version": 0,
+    "structures": {
+        "area": {
+            "priority": 3,
+            "pixels": [
+                {
+                    "x": 514,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 514,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 515,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 516,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 517,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 518,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 519,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 520,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 521,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 522,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 523,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 524,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 525,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 526,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 527,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 528,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 529,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 530,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 531,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 532,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 533,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 534,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1975,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1976,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1977,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1978,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1979,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1980,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1981,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1982,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1983,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1984,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1985,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1986,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1987,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1988,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1989,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1990,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1991,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1992,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1993,
+                    "color": 27,
+                    "priority": 3
+                },
+                {
+                    "x": 535,
+                    "y": 1994,
+                    "color": 27,
+                    "priority": 3
+                }
+            ]
+        }
+    },
+    "priorities": {
+        "0": 0,
+        "1": 1,
+        "2": 5,
+        "3": 25
+    }
+}
